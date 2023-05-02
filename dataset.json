@@ -2,8 +2,9 @@
     {
         "id": 1,
         "name": "Fatima Ali",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 236,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Dubai, UAE",
         "recipes": [
             {
@@ -16,7 +17,7 @@
                     "Spices"
                 ],
                 "method": "1. Cook the lamb with onions and spices. 2. Add tomatoes and simmer. 3. Add rice and cook until done.",
-                "image": "https://www.example.com/images/lamb-machboos.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.2
             },
             {
@@ -29,17 +30,17 @@
                     "Spices"
                 ],
                 "method": "1. Blend chickpeas, onion, and spices. 2. Shape into balls. 3. Fry until crispy.",
-                "image": "https://www.example.com/images/falafel.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.8
             }
-        ],
-        "recipeLengths": 2
+        ]
     },
     {
         "id": 2,
         "name": "Hassan Mohammed",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 432,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Riyadh, Saudi Arabia",
         "recipes": [
             {
@@ -52,7 +53,7 @@
                     "Spices"
                 ],
                 "method": "1. Cook the chicken with onions and spices. 2. Add tomatoes and simmer. 3. Add rice and cook until done.",
-                "image": "https://www.example.com/images/kabsa.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.5
             },
             {
@@ -65,7 +66,7 @@
                     "Olive Oil"
                 ],
                 "method": "1. Blend chickpeas, tahini, lemon juice, and garlic. 2. Drizzle with olive oil.",
-                "image": "https://www.example.com/images/hummus.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.9
             },
             {
@@ -78,17 +79,17 @@
                     "Lemon Juice"
                 ],
                 "method": "1. Soak bulgur in water. 2. Mix with chopped tomatoes, parsley, and mint. 3. Dress with lemon juice.",
-                "image": "https://www.example.com/images/tabbouleh.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.3
             }
-        ],
-        "recipeLengths": 3
+        ]
     },
     {
         "id": 3,
         "name": "Rania Ahmed",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 382,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Cairo, Egypt",
         "recipes": [
             {
@@ -99,7 +100,7 @@
                     "Spices"
                 ],
                 "method": "1. Mix ground beef with onion and spices. 2. Shape into balls. 3. Grill until cooked.",
-                "image": "https://www.example.com/images/kofta.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.7
             },
             {
@@ -111,17 +112,17 @@
                     "Olive Oil"
                 ],
                 "method": "1. Cook fava beans with garlic. 2. Mash and season with lemon juice and olive oil.",
-                "image": "https://www.example.com/images/kofta.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.7
             }
-        ],
-        "recipeLengths": 3
+        ]
     },
     {
         "id": 4,
         "name": "Ahmed Khalid",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 542,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Amman, Jordan",
         "recipes": [
             {
@@ -134,7 +135,7 @@
                     "Spices"
                 ],
                 "method": "1. Cook lamb with spices. 2. Simmer in yogurt sauce. 3. Serve over rice and top with pine nuts.",
-                "image": "https://www.example.com/images/mansaf.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.9
             },
             {
@@ -146,7 +147,7 @@
                     "Butter"
                 ],
                 "method": "1. Spread kataifi dough in a pan. 2. Top with cheese. 3. Bake until golden. 4. Drizzle with sugar syrup and butter.",
-                "image": "https://www.example.com/images/kanafeh.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.6
             },
             {
@@ -159,7 +160,7 @@
                     "Olive Oil"
                 ],
                 "method": "1. Roast eggplant until soft. 2. Mash with tahini, lemon juice, and garlic. 3. Drizzle with olive oil.",
-                "image": "https://www.example.com/images/baba-ghanoush.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.4
             },
             {
@@ -171,17 +172,17 @@
                     "Onions"
                 ],
                 "method": "1. Cook wheat with meat and spices. 2. Mash until smooth. 3. Serve topped with fried onions.",
-                "image": "https://www.example.com/images/harees.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.2
             }
-        ],
-        "recipeLengths": 4
+        ]
     },
     {
         "id": 5,
         "name": "Rasha Hassan",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 278,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Beirut, Lebanon",
         "recipes": [
             {
@@ -193,7 +194,7 @@
                     "Spices"
                 ],
                 "method": "1. Mix bulgur with ground beef, onion, and spices. 2. Shape into balls or patties. 3. Fry until crispy.",
-                "image": "https://www.example.com/images/kibbeh.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.7
             },
             {
@@ -205,7 +206,7 @@
                     "Spices"
                 ],
                 "method": "1. Cook lentils with spices. 2. Mix with rice. 3. Top with fried onions.",
-                "image": "https://www.example.com/images/mujadara.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.3
             },
             {
@@ -218,7 +219,7 @@
                     "Tahini Sauce"
                 ],
                 "method": "1. Marinate chicken in spices. 2. Grill and slice. 3. Serve in pita bread with tomatoes, onions, and tahini sauce.",
-                "image": "https://www.example.com/images/shawarma.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.8
             },
             {
@@ -230,17 +231,17 @@
                     "Spices"
                 ],
                 "method": "1. Cook lentils with spices. 2. Mix with rice. 3. Top with fried onions.",
-                "image": "https://www.example.com/images/mujadara.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.3
             }
-        ],
-        "recipeLengths": 4
+        ]
     },
     {
         "id": 6,
         "name": "Samiya Ali",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 398,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Cairo, Egypt",
         "recipes": [
             {
@@ -254,7 +255,7 @@
                     "Chickpeas"
                 ],
                 "method": "1. Cook rice, lentils, and pasta. 2. Mix with tomato sauce. 3. Top with caramelized onions and chickpeas.",
-                "image": "https://www.example.com/images/koshari.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.9
             },
             {
@@ -267,7 +268,7 @@
                     "Parsley"
                 ],
                 "method": "1. Cook fava beans with garlic. 2. Mash with lemon juice and olive oil. 3. Top with parsley.",
-                "image": "https://www.example.com/images/ful-medames.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.6
             },
             {
@@ -281,7 +282,7 @@
                     "Spices"
                 ],
                 "method": "1. Stuff vegetables with spiced rice. 2. Cook in tomato sauce. 3. Serve hot.",
-                "image": "https://www.example.com/images/mahshi.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.4
             },
             {
@@ -291,17 +292,17 @@
                     "Flatbread"
                 ],
                 "method": "1. Soak salted fish in water. 2. Serve with flatbread.",
-                "image": "https://www.example.com/images/feseekh.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.2
             }
-        ],
-        "recipeLengths": 4
+        ]
     },
     {
         "id": 7,
         "name": "Salma Ibrahim",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 732,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Riyadh, Saudi Arabia",
         "recipes": [
             {
@@ -314,7 +315,7 @@
                     "Onions"
                 ],
                 "method": "1. Cook chicken with spices. 2. Serve over rice with tomatoes and onions.",
-                "image": "https://www.example.com/images/kabsa.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.7
             },
             {
@@ -325,7 +326,7 @@
                     "Spices"
                 ],
                 "method": "1. Cook lamb with spices. 2. Serve over rice.",
-                "image": "https://www.example.com/images/mandi.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.3
             },
             {
@@ -338,7 +339,7 @@
                     "Spices"
                 ],
                 "method": "1. Mix flour and egg to make dough. 2. Fill with ground beef, onion, and spices. 3. Fry until golden.",
-                "image": "https://www.example.com/images/mutabbaq.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.8
             },
             {
@@ -350,17 +351,17 @@
                     "Saffron"
                 ],
                 "method": "1. Mix milk, sugar, and cornstarch. 2. Add saffron. 3. Cook until thickened.",
-                "image": "https://www.example.com/images/mutabbaq.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.8
             }
-        ],
-        "recipeLengths": 4
+        ]
     },
     {
         "id": 8,
         "name": "Ahmed Hassan",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 234,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Amman, Jordan",
         "recipes": [
             {
@@ -372,7 +373,7 @@
                     "Almonds"
                 ],
                 "method": "1. Cook lamb with jameed. 2. Serve over rice. 3. Top with almonds.",
-                "image": "https://www.example.com/images/mansaf.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.5
             },
             {
@@ -385,7 +386,7 @@
                     "Sumac"
                 ],
                 "method": "1. Mix flour and yogurt to make dough. 2. Fill with spinach, onion, and sumac. 3. Bake until golden.",
-                "image": "https://www.example.com/images/fatayer.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.2
             },
             {
@@ -398,17 +399,17 @@
                     "Spices"
                 ],
                 "method": "1. Cook chicken with spices. 2. Layer with eggplant and cauliflower. 3. Cook rice separately. 4. Flip upside down to serve.",
-                "image": "https://www.example.com/images/maqluba.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.4
             }
-        ],
-        "recipeLengths": 3
+        ]
     },
     {
         "id": 9,
         "name": "Sanaa Ali",
-        "image": "https://i.ibb.co/rxjVdPv/women-cartoon.jpg",
+        "image": "https://ibb.co/gS2x416",
         "likes": 654,
+        "bio": "As an Arabian chef, I have spent years perfecting my craft and developing my skills in the kitchen. Growing up in a family that valued food and cooking, I learned the importance of using fresh ingredients and incorporating traditional flavors and spices into my dishes.",
         "origin": "Baghdad, Iraq",
         "recipes": [
             {
@@ -422,7 +423,7 @@
                     "Spices"
                 ],
                 "method": "1. Stuff grape leaves with spiced rice and ground beef. 2. Cook in tomato sauce. 3. Serve hot.",
-                "image": "https://www.example.com/images/dolma.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.7
             },
             {
@@ -435,7 +436,7 @@
                     "Spices"
                 ],
                 "method": "1. Layer bread, lamb, and chickpeas in a dish. 2. Pour yogurt on top. 3. Bake until bubbly.",
-                "image": "https://www.example.com/images/tashreeb.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.3
             },
             {
@@ -447,7 +448,7 @@
                     "Spices"
                 ],
                 "method": "1. Mix flour and water to make dough. 2. Fill with ground beef and onion. 3. Fry until golden.",
-                "image": "https://www.example.com/images/sambusak.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.8
             },
             {
@@ -460,10 +461,9 @@
                     "Onions"
                 ],
                 "method": "1. Cook chicken with spices. 2. Layer with rice and onions. 3. Bake until cooked through.",
-                "image": "https://www.example.com/images/biryani.jpg",
+                "image": "https://ibb.co/gS2x416",
                 "rating": 4.5
             }
-        ],
-        "recipeLengths": 4
+        ]
     }
 ]
